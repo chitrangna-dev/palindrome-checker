@@ -18,7 +18,8 @@ A clean and responsive palindrome checker built using HTML, CSS, and JavaScript.
 
 ## 📸 Preview
 
-![Project Preview](assets/preview.png)
+![Project Preview](assets/preview.PNG
+)
 
 ## 📂 Folder Structure
 
