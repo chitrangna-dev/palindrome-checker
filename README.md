@@ -41,7 +41,7 @@ assets/
 
 ## 🔗 Live Demo
 
-Add Netlify/Vercel link here
+https://palinchecker.netlify.app/
 
 ## 👨‍💻 Author
 
