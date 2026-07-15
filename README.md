@@ -1,48 +1,87 @@
-# 🔄 Palindrome Checker
 
-A clean and responsive palindrome checker built using HTML, CSS, and JavaScript.
 
-## 🚀 Features
+<h1 align="center">Palindrome Checker</h1>
 
-- Check whether a word or sentence is a palindrome
-- Responsive Design
-- Clean UI
-- Instant Result
-- Beginner Friendly
+<p align="center">
+A simple web application that checks whether a word, phrase, or sentence is a palindrome. Built with HTML, CSS, and JavaScript while practicing DOM manipulation, string methods, and conditional logic.
+</p>
 
-## 🛠 Tech Stack
+<p align="center">
+  <a href="https://palinchecker.netlify.app/">🚀 Live Demo</a> •
+  <a href="https://github.com/chitrangna-dev/palindrome-checker">💻 Source Code</a>
+</p>
 
-- HTML5
-- CSS3
-- JavaScript
+---
 
 ## 📸 Preview
 
-![Project Preview](assets/preview.PNG
-)
+<p align="center">
+  <img src="assets/preview.PNG" alt="Palindrome Checker Preview" width="90%">
+</p>
 
-## 📂 Folder Structure
+---
 
-index.html
+## 🎥 Demo
 
-style.css
+<p align="center">
+  <img src="assets/demo.gif" alt="Palindrome Checker Demo" width="90%">
+</p>
 
-script.js
+---
 
-assets/
+## ✨ Features
 
-## 📖 What I Learned
+- Checks whether the entered text is a palindrome.
+- Supports both single words and complete sentences.
+- Ignores spaces and letter casing while checking.
+- Displays the result instantly without reloading the page.
+- Responsive design for desktop and mobile devices.
+- Clean and beginner-friendly user interface.
 
-- DOM Manipulation
-- Event Handling
-- String Methods
-- Conditional Logic
-- Responsive Design
+---
 
-## 🔗 Live Demo
+## 🛠 Built With
 
-https://palinchecker.netlify.app/
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/chitrangna-dev/palindrome-checker.git
+```
+
+Move into the project folder:
+
+```bash
+cd palindrome-checker
+```
+
+Open `index.html` in your preferred web browser.
+
+---
+
+## 💡 Why I Built This
+
+I built this project while learning JavaScript to strengthen my understanding of string manipulation, conditional logic, and DOM interaction. It also helped me practice creating responsive and user-friendly web interfaces.
+
+---
 
 ## 👨‍💻 Author
 
-chitrangna
+**Chitrangna**
+
+Learning Web Development one project at a time.
+
+Feel free to explore the project, share feedback, or contribute through pull requests.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
