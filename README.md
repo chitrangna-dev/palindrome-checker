@@ -16,7 +16,7 @@ A simple web application that checks whether a word, phrase, or sentence is a pa
 ## 📸 Preview
 
 <p align="center">
-  <img src="assets/preview.PNG" alt="Palindrome Checker Preview" width="90%">
+  <img src="assets/preview.PNG" alt="Palindrome Checker Preview" width="50%">
 </p>
 
 ---
