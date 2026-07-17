@@ -9,27 +9,25 @@ A simple web application that checks whether a word or piece of text reads the s
 </p>
 
 <p align="center">
-  <a href="https://palinchecker.netlify.app/">🚀 Live Demo</a> •
-  <a href="https://github.com/chitrangna-dev/palindrome-checker">💻 Source Code</a>
+  <a href="https://palinchecker.netlify.app/">Live Demo</a> •
 </p>
 
 ---
 
-## 📸 Preview
+##  Preview
 
 <p align="center">
   <img src="assets/preview.PNG" alt="Palindrome Checker Preview" width="50%">
 </p>
 
----
 
-##  Demo
+<!--##  Demo
 
 <p align="center">
   <img src="assets/demo.gif" alt="Palindrome Checker Demo" width="90%">
 </p>
 
----
+----->
 
 ##  Features
 
@@ -43,7 +41,7 @@ A simple web application that checks whether a word or piece of text reads the s
 
 ---
 
-## 🛠 Built With
+##  Built With
 
 - HTML5
 - CSS3
