@@ -23,7 +23,7 @@ A simple web application that checks whether a word or piece of text reads the s
 
 ---
 
-## 🎥 Demo
+##  Demo
 
 <p align="center">
   <img src="assets/demo.gif" alt="Palindrome Checker Demo" width="90%">
@@ -31,7 +31,7 @@ A simple web application that checks whether a word or piece of text reads the s
 
 ---
 
-## ✨ Features
+##  Features
 
 - Checks whether the entered text is a palindrome
 - Case-insensitive comparison (`Madam` and `madam` are treated the same)
@@ -51,7 +51,7 @@ A simple web application that checks whether a word or piece of text reads the s
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Clone the repository:
 ```bash
@@ -67,13 +67,13 @@ Open `index.html` in your preferred web browser.
 
 ---
 
-## 💡 Why I Built This
+##  Why I Built This
 
 I built this while learning JavaScript to get more comfortable with string manipulation — reversing strings, comparing them, and updating the DOM based on the result without reloading the page.
 
 ---
 
-## 🔧 Possible Improvements
+## Possible Improvements
 
 - Strip spaces and punctuation before comparing, so full sentences work correctly
 - Add a character counter or live-typing check instead of a submit button
@@ -81,14 +81,16 @@ I built this while learning JavaScript to get more comfortable with string manip
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Chitrangna**
-Learning Web Development one project at a time.
-Feel free to explore the project, share feedback, or contribute through pull requests.
+
+Passionate about building web applications and improving my JavaScript skills through hands-on projects.
+
+Feel free to explore the project or share your feedback.
 
 ---
 
-## 📄 License
+##  License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License ab  dekho jra
