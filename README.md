@@ -9,9 +9,8 @@ A simple web application that checks whether a word or piece of text reads the s
 </p>
 
 <p align="center">
-  <a href="https://palinchecker.netlify.app/">Live Demo</a> •
+  <strong><a href="https://palinchecker.netlify.app/">🌐 Live Demo</a></strong>
 </p>
-
 ---
 
 ##  Preview
